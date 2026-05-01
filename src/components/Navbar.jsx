@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="fixed w-full z-50 flex justify-between items-center px-6 md:px-16 py-6 bg-black/80 backdrop-blur-lg border-b border-white/5">
       {/* --- YOUR ORIGINAL LOGO --- */}
       <Link to="/" onClick={() => setIsOpen(false)} className="text-2xl font-playfair font-bold tracking-[0.2em] text-white">
-        GENETICS <span className="text-gold">GYM</span>
+        Elite <span className="text-gold">GYM</span>
       </Link>
 
       {/* --- YOUR ORIGINAL DESKTOP LINKS --- */}
